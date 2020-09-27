@@ -6,7 +6,7 @@ Go CLI tool to clean up for dynamodb on localstack.
 Build from source.
 
 ```
-go get -u 
+go get -u go get -u github.com/laqiiz/localstack-dynamodb-clean-up/cmd/main
 ```
 
 ## Usage
